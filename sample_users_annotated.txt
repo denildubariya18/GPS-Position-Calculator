@@ -1,0 +1,21 @@
+3 - # of other users
+Zac - name of our user
+1000013 - time of our user
+1543.21 - lat of our user
+2503.02 - long of our user
+155.30 - alt of our user
+Lise - name of other user #1
+1000015 - time of other user #1
+2501.87 - lat of other user #1
+1100.21 - long of other user #1
+266.30 - alt of other user #1
+Hermanus - rest of lines follow same pattern as above (other 2 users)...
+1000014
+1541.54
+2470.33
+153.92
+Petros
+1000011
+921.88
+3100.21
+92.17
